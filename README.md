@@ -7,8 +7,9 @@ Apache Guacamole (incubating) is a clientless remote desktop gateway. It support
 It supports RDP, SSH, Telnet and VNC and is the fastest HTML5 gateway I know. Checkout the projects homepage for more information.
 
 ## Prerequisites
-You need a working docker installation and docker-compose running on your machine.
+You need a working docker installation and docker-compose running on your machine. More info about Docker and how to install it on Debian/Ubuntu:
 
+        https://github.com/rozicdejan/Docker-help.git
 ## Quick start
 Clone the GIT repository and start guacamole:
 
